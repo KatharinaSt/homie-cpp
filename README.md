@@ -6,7 +6,7 @@ It is not built around a specific mqtt library, so you can use what ever you lik
 
 #### Devicemode
 In device mode you can publish a device and react to changes sent via mqtt.
-Because mqtt allows only one testatment topic you need multiple connections
+Because mqtt allows only one testament topic you need multiple connections
 to the broker if you want to implement more than one device.
 
 #### Master
